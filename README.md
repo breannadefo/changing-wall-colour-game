@@ -8,24 +8,24 @@ This project was one of the first programs I've ever coded. It was for the final
 ### Start Menu:
 Upon running the game, you'll be met with a start menu. There are two choices: Play the game or quit the program.   
    
-
+![Start Menu](https://github.com/breannadefo/changing-wall-colour-game/blob/main/images-for-readme/start-menu-screenshot.png)
    
 ### Instructions:
 Before you can start playing the game, instructions will show up on the screen. They explain how to play, how the scoring works, and the order of the colours when you try to change it.   
    
-
+![Instructions](https://github.com/breannadefo/changing-wall-colour-game/blob/main/images-for-readme/instructions-screenshot.png)
    
 ### Random Walls:
 While playing, the colour of the walls are mostly randomized. You have to try and line yourself up with a wall that matches the colour of your character.   
    
-
+![Random Walls](https://github.com/breannadefo/changing-wall-colour-game/blob/main/images-for-readme/random-walls-screenshot.png)
    
 ### Preset Walls:
 There are some special walls that are only a few colours. This is supposed to make the game harder, as it is more likely that the colour of your character won't match one of the colours on the wall. This forces you to press the spacebar to change your colour.   
    
-
+![Preset Walls](https://github.com/breannadefo/changing-wall-colour-game/blob/main/images-for-readme/preset-walls-screenshot.png)
    
-### End Screen:
+### Game Over Screen:
 When your character hits a wall that isn't the same colour, the game is over. A message will show up in the middle of the screen and you will be prompted to exit the game.   
    
-
+![Game Over](https://github.com/breannadefo/changing-wall-colour-game/blob/main/images-for-readme/game-over-screen.png)
