@@ -1,4 +1,4 @@
-# Changing Wall Colour Game
+# Colour Changing Walls
 
 ## Goal
 This project was one of the first programs I've ever coded. It was for the final project of the first programming class I took. We had to create a game that was a mashup of a couple games we enjoyed. I chose to make a combination of the mobile game 'Color Switch' and 'Flabby Bird'. Essentially, you use the arrow keys to move up and down as a wall move towards you. You have to try and pass through the part of the wall that is the same colour as your character.
